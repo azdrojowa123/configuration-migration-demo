@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="JunitTestClass_2 (proj2.foo)" type="JUnit" factoryName="JUnit">
+      <module name="proj2.foo" />
+      <option name="PACKAGE_NAME" value="" />
+    <option name="MAIN_CLASS_NAME" value="JunitTestClass_2" />
+    <option name="METHOD_NAME" value="" />
+    <option name="TEST_OBJECT" value="class" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

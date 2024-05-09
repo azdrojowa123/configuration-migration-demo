@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="configuration-migration-demo,configuration-migration-demo.foo,configuration-migration-demo_5205,configuration-migration-demo_9864,foo,proj2.foo,root,root.foo" />
+  </component>
+</project>

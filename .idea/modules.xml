@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/configuration-migration-demo.iml" filepath="$PROJECT_DIR$/.idea/modules/configuration-migration-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/configuration-migration-demo-build.iml" filepath="$PROJECT_DIR$/.idea/modules/configuration-migration-demo-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/foo.iml" filepath="$PROJECT_DIR$/.idea/modules/foo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/proj2.foo.iml" filepath="$PROJECT_DIR$/.idea/modules/proj2.foo.iml" group="root" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/root.iml" filepath="$PROJECT_DIR$/.idea/modules/root.iml" group="root" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/root-build.iml" filepath="$PROJECT_DIR$/.idea/modules/root-build.iml" group="root" />
+    </modules>
+  </component>
+</project>
